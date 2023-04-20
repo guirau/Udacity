@@ -3,8 +3,8 @@
 
 This project consists of two Jupyter notebooks:
 
-- **finding_donors.ipynb**: Complete project from the Udacity ML with TensorFlow course
-- **finding_donors_kaggle.ipynb**: Kaggle Competition version of the same project with a more in-depth analysis.
+- **finding_donors.ipynb**: Complete project from the Udacity ML with TensorFlow course.
+- **finding_donors_kaggle.ipynb**: [Kaggle Competition](https://www.kaggle.com/competitions/udacity-mlcharity-competition/) version of the same project with a more in-depth analysis.
 
 ### Rendered HTML views from nbviewer
 

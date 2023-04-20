@@ -1,8 +1,15 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-### Rendered HTML from nbviewer
-https://nbviewer.org/github/guirau/Udacity/blob/main/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors.ipynb
+This project consists of two Jupyter notebooks:
+
+- **finding_donors.ipynb**: Complete project from the Udacity ML with TensorFlow course
+- **finding_donors_kaggle.ipynb**: Kaggle Competition version of the same project with a more in-depth analysis.
+
+### Rendered HTML views from nbviewer
+
+- **finding_donors.ipynb**: https://nbviewer.org/github/guirau/Udacity/blob/main/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors.ipynb
+- **finding_donors_kaggle.ipynb**: 
 
 ### Install
 

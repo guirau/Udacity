@@ -9,7 +9,7 @@ Inside this directory you will find two Jupyter notebooks:
 ### Rendered HTML views from nbviewer
 
 - **finding_donors.ipynb**: https://nbviewer.org/github/guirau/Udacity/blob/d38888521cf320600badfe3aec98b5e3258ab2cd/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors.ipynb
-- **finding_donors_kaggle.ipynb**: 
+- **finding_donors_kaggle.ipynb**: https://nbviewer.org/github/guirau/Udacity/blob/f26877c63c6255d4ff47b654aa0f8f8d3194c98d/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors_kaggle.ipynb
 
 ---
 

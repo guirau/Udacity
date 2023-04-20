@@ -11,6 +11,8 @@ This project consists of two Jupyter notebooks:
 - **finding_donors.ipynb**: https://nbviewer.org/github/guirau/Udacity/blob/d38888521cf320600badfe3aec98b5e3258ab2cd/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors.ipynb
 - **finding_donors_kaggle.ipynb**: 
 
+-----
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:

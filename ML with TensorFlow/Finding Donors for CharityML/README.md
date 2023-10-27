@@ -6,11 +6,6 @@ Inside this directory you will find two Jupyter notebooks:
 - **finding_donors.ipynb**: Complete project from the Udacity ML with TensorFlow course.
 - **finding_donors_kaggle.ipynb**: [Kaggle Competition](https://www.kaggle.com/competitions/udacity-mlcharity-competition/) version of the same project with a more in-depth analysis.
 
-### Rendered HTML views from nbviewer
-
-- **finding_donors.ipynb**: https://nbviewer.org/github/guirau/Udacity/blob/d38888521cf320600badfe3aec98b5e3258ab2cd/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors.ipynb
-- **finding_donors_kaggle.ipynb**: https://nbviewer.org/github/guirau/Udacity/blob/f26877c63c6255d4ff47b654aa0f8f8d3194c98d/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors_kaggle.ipynb
-
 ---
 
 ### Install

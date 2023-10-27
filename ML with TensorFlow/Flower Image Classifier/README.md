@@ -10,10 +10,6 @@ And two Python scripts:
 - **predict.py**: Command-line app that uses a pre-trained network to predict the top flower names from an image along with their corresponding probabilities.
 - **utility.py**: Supporting modules for `predict.py`.
 
-### Rendered HTML view from nbviewer
-
-- **image_classifier.ipynb**: [https://nbviewer.org/github/guirau/Udacity/blob/main/ML%20with%20TensorFlow/Flower%20Image%20Classifier/Project_Image_Classifier_Project.ipynb](https://nbviewer.org/github/guirau/Udacity/blob/main/ML%20with%20TensorFlow/Flower%20Image%20Classifier/Project_Image_Classifier_Project.ipynb)
-
 ---
 
 ### Install

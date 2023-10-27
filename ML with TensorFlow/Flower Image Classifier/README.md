@@ -12,7 +12,7 @@ And two Python scripts:
 
 ### Rendered HTML view from nbviewer
 
-- **image_classifier.ipynb**: https://nbviewer.org/github/guirau/Udacity/blob/d38888521cf320600badfe3aec98b5e3258ab2cd/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors.ipynb
+- **image_classifier.ipynb**: [https://nbviewer.org/github/guirau/Udacity/blob/main/ML%20with%20TensorFlow/Flower%20Image%20Classifier/Project_Image_Classifier_Project.ipynb](https://nbviewer.org/github/guirau/Udacity/blob/main/ML%20with%20TensorFlow/Flower%20Image%20Classifier/Project_Image_Classifier_Project.ipynb)
 
 ---
 

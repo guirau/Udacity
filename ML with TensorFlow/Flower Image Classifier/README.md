@@ -5,6 +5,11 @@ Inside this directory you will find one Jupyter notebook:
 
 - **image_classifier.ipynb**: Complete project from the Udacity ML with TensorFlow course.
 
+And two Python scripts:
+
+- **predict.py**: Command-line app that uses a pre-trained network to predict the top flower names from an image along with their corresponding probabilities.
+- **utility.py**: Supporting modules for `predict.py`.
+
 ### Rendered HTML view from nbviewer
 
 - **image_classifier.ipynb**: https://nbviewer.org/github/guirau/Udacity/blob/d38888521cf320600badfe3aec98b5e3258ab2cd/ML%20with%20TensorFlow/Finding%20Donors%20for%20CharityML/finding_donors.ipynb
@@ -37,5 +42,31 @@ jupyter notebook image_classifier.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
+
+### Code
+
+The `predict.py` module should predict the top flower names from an image along with their corresponding probabilities.
+
+**Basic usage**:
+
+```bash
+python predict.py /path/to/image saved_model
+```
+
+**Options**:
+
+- `--top_k` or `-k`: Return the top K most likely classes:
+
+```bash
+python predict.py /path/to/image saved_model --top_k K
+```
+
+- `--category_names` or `-c`: Path to a JSON file mapping labels to flower names:
+
+```bash
+python predict.py /path/to/image saved_model --category_names map.json
+```
+
+- `--verbose` or `-v`: Show verbose information.
 
 ### App

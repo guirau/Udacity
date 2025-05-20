@@ -64,5 +64,3 @@ python predict.py /path/to/image saved_model --category_names map.json
 ```
 
 - `--verbose` or `-v`: Show verbose information.
-
-### App

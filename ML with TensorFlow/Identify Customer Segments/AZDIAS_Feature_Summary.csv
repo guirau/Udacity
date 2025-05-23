@@ -1,0 +1,6 @@
+attribute;information_level;type;missing_or_unknown
+AGER_TYP;person;categorical;[-1,0]
+ALTERSKATEGORIE_GROB;person;ordinal;[-1,0,9]
+ANREDE_KZ;person;categorical;[-1,0]
+...;...;...;...
+Content removed for copyright reasons;;;

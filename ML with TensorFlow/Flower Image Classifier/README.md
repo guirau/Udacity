@@ -3,7 +3,7 @@
 
 Inside this directory you will find one Jupyter notebook:
 
-- **image_classifier.ipynb**: Complete project from the Udacity ML with TensorFlow course.
+- **[image_classifier.ipynb](image_classifier.ipynb)**: Complete project from the Udacity ML with TensorFlow course.
 
 And two Python scripts:
 

@@ -1,9 +1,9 @@
 # Unsupervised Learning
 ## Project: Identify Customer Segments
 
-Inside this directory you will find one Jupyter notebooks:
+Inside this directory you will find one Jupyter notebook:
 
-- **Identify_Customer_Segments.ipynb**: Complete project from the Udacity ML with TensorFlow course.
+- **[Identify_Customer_Segments.ipynb](/Identify_Customer_Segments.ipynb)**: Complete project from the Udacity ML with TensorFlow course.
 
 ---
 

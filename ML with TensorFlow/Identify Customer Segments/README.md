@@ -3,7 +3,7 @@
 
 Inside this directory you will find one Jupyter notebook:
 
-- **[Identify_Customer_Segments.ipynb](ML with TensorFlow/Identify Customer Segments/Identify_Customer_Segments.ipynb)**: Complete project from the Udacity ML with TensorFlow course.
+- **[Identify_Customer_Segments.ipynb](ML%20with%20TensorFlow/Identify%20Customer%20Segments/Identify_Customer_Segments.ipynb)**: Complete project from the Udacity ML with TensorFlow course.
 
 ---
 
